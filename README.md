@@ -5,7 +5,7 @@ GitHub pages : [https://github.com/hloganathan/AngularPOC](https://github.com/hl
 
 #Introduction
 
-scratchpad application to start wetting my hands on Angular JS and with my interest growing day by day on this I felt like there is more to do and started deploying my application in the Cloud platform for me to play around.
+This is a project started as a scratchpad application to start wetting my hands on Angular JS and with my interest growing day by day on this I felt like there is more to do and started deploying my application in the Cloud platform for me to play around.
 
 The running version can be found at, [http://angularpoc-haritha.rhcloud.com/](http://angularpoc-haritha.rhcloud.com/)
 
