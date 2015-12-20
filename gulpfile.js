@@ -25,7 +25,7 @@ var gulp = require('gulp'),
 //Configure your proxy for integrating with services
 //
 var configuration = {
-    proxyOptions: _.extend(url.parse('http://demo-venkatvp.rhcloud.com/services'), {
+    proxyOptions: _.extend(url.parse('http://demo-haritha.rhcloud.com/services'), {
         route: '/services',
         headers: {
             custom: 'My Custom Header'
